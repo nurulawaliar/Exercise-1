@@ -1,0 +1,55 @@
+/* ini font */
+@font-face{
+	font-family: "gfsd";
+	src:url('font/Good Feeling sans demo.ttf');
+}
+@font-face{
+	font-family: "arciform";
+	src:url('font/arciform.otf');
+}
+/* ini box */
+.centerbox{
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+    margin-top: 5%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.4); 
+}
+.leftpane{
+    background-color: rgb(226, 234, 240);
+}
+/* ini leftpane */
+.foto_ku{
+    margin-left: 23%;
+    margin-top: 10%;
+    width: 150px;
+}
+.logo{
+    width: 20px;
+}
+.kontak{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.kontak p, td{
+    font-family: "arciform";
+    color: rgb(56, 63, 102);
+}
+/* ini rightpane */
+table{
+    margin-left: 4px;
+    margin-right: -100px;
+}
+td{
+    padding-bottom: 4px;
+}
+p.judul{
+    font-family: "gfsd";
+    font-size: 35px;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 7%;
+    margin-left: -15px;
+    margin-right: -75px;
+    background-color: rgb(157, 191, 231);
+}

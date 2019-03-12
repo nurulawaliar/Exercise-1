@@ -1,11 +1,11 @@
 /* ini font */
 @font-face{
 	font-family: "gfsd";
-	src:url('font/Good Feeling sans demo.ttf');
+	src:url('Good Feeling sans demo.ttf');
 }
 @font-face{
 	font-family: "arciform";
-	src:url('font/arciform.otf');
+	src:url('arciform.otf');
 }
 /* ini box */
 .centerbox{
